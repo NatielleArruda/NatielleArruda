@@ -1,6 +1,6 @@
 ## Olá!  Eu sou a Natielle Arruda
 
-- 🌱 I’m currently learning : Python
+- 🌱 I’m currently learning : Java
 - 📫 How to reach me: natielle.ferreira_@hotmail.com
 - 😄 Pronouns: Ela/Dela
 
